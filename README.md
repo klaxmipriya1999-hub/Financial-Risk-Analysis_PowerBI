@@ -13,26 +13,12 @@ This project analyzes financial data from a loan service provider using Microsof
 # Project Workflow
 
 Connect to Excel Dataset
-      │
-      ▼
 Power Query
-      │
-      ▼
 Data Cleaning
-      │
-      ▼
 Data Categorization
-      │
-      ▼
 Data Modeling
-      │
-      ▼
 DAX Measures
-      │
-      ▼
 Interactive Dashboard
-      │
-      ▼
 Business Insights
 
 
@@ -78,13 +64,13 @@ Validated relationships.
 
 # Customer Demographics
 
-![Customer Demographics](Customer Demographics.png)
+![Customer_Demographics](CustomerDemographics.png)
 
 ---
 
 # Loan Portfolio
 
-![(Loan Portfolio & Performance](Loan Portfolio & Performance.png)
+![(Loan_Portfolio_&_Performance](LoanPortfolio&Performance.png)
 
 ---
 
