@@ -64,13 +64,13 @@ Validated relationships.
 
 # Customer Demographics
 
-![Customer_Demographics](CustomerDemographics.png)
+![Customer_Demographics](Customer Demographics.png)
 
 ---
 
 # Loan Portfolio
 
-![(Loan_Portfolio_&_Performance](LoanPortfolio&Performance.png)
+![(Loan_Portfolio_&_Performance](Loan Portfolio & Performance.png)
 
 ---
 
